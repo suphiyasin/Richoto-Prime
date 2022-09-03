@@ -60,7 +60,7 @@ Instagram cookie alma işlemi için bu videoyu izleyebilirsiniz.
 
 # Nasıl kullanılır ? 
 
-### 1- Toplama
+### Toplama
 
 #### 3 ü 1 Arada 
 
