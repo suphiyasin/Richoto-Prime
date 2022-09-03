@@ -15,7 +15,6 @@
 
 <p align="center">
     Bu PHP script i ile belirtilen hesabın taki edilenlerinden veya önerilenlerinden hesaplar toplayabilir ve bunlara mail, dm atabilrisiniz
-	
     <br>
     <a href="https://github.com/suphiyasin/Richoto-Prime/issues">Feedback</a>
     <br>
