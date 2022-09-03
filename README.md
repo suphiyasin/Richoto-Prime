@@ -82,12 +82,10 @@ DM  basarken [suphi] yazarsanız oraya username gelir<br/>
 
 
 # Screenshots
-### Collecting
-![image](https://user-images.githubusercontent.com/65618247/173745092-02f5186d-bf5a-427c-b78b-f73eb88eb9c9.png)
-### Mail Scan
-![image](https://user-images.githubusercontent.com/65618247/173745165-805ea1b4-9bab-4f09-bae5-14a5eecc4716.png)
-### Collected Mail List
-![image](https://user-images.githubusercontent.com/65618247/173745202-bbe547dd-1df3-4807-abe8-1f42991e8c79.png)
+![image](https://user-images.githubusercontent.com/65618247/188274912-149cfc05-b137-4462-be78-46afbaa32171.png)
+![image](https://user-images.githubusercontent.com/65618247/188274919-e280e401-de5a-431b-bc13-d5c16694c886.png)
+![image](https://user-images.githubusercontent.com/65618247/188274924-a91821fc-3b7c-44aa-9311-759151bf8736.png)
+
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/suphiyasin/Richoto-Prime.svg?style=for-the-badge
