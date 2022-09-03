@@ -1,0 +1,33 @@
+{
+  "name":"hasokeyk/instagram",
+  "authors":[
+    {
+      "name":"Hasan Yüksektepe",
+      "email":"hasanhasokeyk@hotmail.com",
+      "homepage":"https://hayatikodla.net",
+      "role":"Developer"
+    }
+  ],
+  "type":"library",
+  "keywords":[
+    "instagram",
+    "instagram user",
+    "instagram static",
+    "instagram post",
+    "instagram tag",
+    "instagram a2f disabled"
+  ],
+  "homepage":"https://hayatikodla.net",
+  "license":"MIT",
+  "minimum-stability":"stable",
+  "require":{
+    "guzzlehttp/guzzle":"^7.4.2",
+    "ext-json":"*",
+    "ext-curl": "*"
+  },
+  "autoload":{
+    "psr-4":{
+      "Hasokeyk\\Instagram\\":"src/Instagram"
+    }
+  }
+}

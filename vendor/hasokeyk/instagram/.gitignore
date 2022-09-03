@@ -1,0 +1,10 @@
+.idea/
+vendor/
+index.php
+src/cache/*
+assets/
+register.php
+
+.php-cs-fixer.cache
+*.mp4
+/logo.jpg
